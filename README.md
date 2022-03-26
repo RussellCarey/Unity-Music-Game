@@ -1,12 +1,14 @@
 # Various Music Games
 
-When I first started programming it was because I wanted to make a music game.  
+I first started programming back in late 2019 because I wanted to make a music game.  
 
 I 'studied' C# and Unity with the intention just to create a music game for fun.
 
-I ended up creating web and mobile based games (unreleased) due to my lack of skill at the time.
+I ended up creating web and mobile based games, unreleased due to my lack of skill at the time.
 
-This is where I found my love for programming and combing art, media and coding together. I then moved to JavaScript and the Web.
+This is where I found my love for programming and combing art, design and coding together. 
+
+I then moved to JavaScript and the Web to continue this further.
 
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s1.png?raw=true)
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s2.png?raw=true)
