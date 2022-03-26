@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6625e3263de45efad5bb1d2c43fc16, type: 3}
+  m_Name: Himawari
+  m_EditorClassIdentifier: 
+  isVideo: 0
+  videoName: 
+  artistName: Yui Takanaka
+  songName: Himawari
+  songTime: 2:45
+  playerPrefsE: 001E
+  playerPrefsM: 001M
+  playerPrefsH: 001H
+  playerPrefsEC: 001EC
+  playerPrefsMC: 001MC
+  playerPrefsHC: 001HC
+  addLife: 10
+  takeLife: 10
+  leaderboard: CgkIweWXm7YEEAIQAg
+  songSnip: {fileID: 8300000, guid: 77c1ea1fb195c4ecab26c4b593c94390, type: 3}
+  bpm: 120
+  MainKoreograpy: {fileID: 11400000, guid: 2077ae271a3b24bd69176593109a440f, type: 2}
+  easyTrack: {fileID: 11400000, guid: 2115f67b813a94bcba65497c33c4d2ca, type: 2}
+  easyTrackString: E
+  easySpeedBase: 5
+  mediumTrack: {fileID: 11400000, guid: 2115f67b813a94bcba65497c33c4d2ca, type: 2}
+  mediumTrackString: M
+  mediumSpeedBase: 6
+  hardTrack: {fileID: 11400000, guid: d77b7124f7ee443789e0b0ebba5582c8, type: 2}
+  hardTrackString: H
+  hardSpeedBase: 7
+  tickTrack: {fileID: 0}
+  tickTrackString: 
+  beats: {fileID: 11400000, guid: 2115f67b813a94bcba65497c33c4d2ca, type: 2}
+  beatsTrackName: B
+  easyLevelNum: 5
+  mediumLevellNum: 6
+  hardLevelNum: 7
+  noteColor: {r: 0, g: 0, b: 0, a: 0}
+  doubleColor: {r: 0, g: 0, b: 0, a: 0}
+  holdColor: {r: 0, g: 0, b: 0, a: 0}
+  mainColor: {r: 0, g: 0, b: 0, a: 0}
+  lightColor: {r: 0, g: 0, b: 0, a: 0}
+  darkColor: {r: 0, g: 0, b: 0, a: 0}
+  ssSmallIcon: {fileID: 21300000, guid: 65fb177822cfd4875abc0697e8474c14, type: 3}
+  ssBigIcon: {fileID: 21300000, guid: 3c722124aad654033bf8226e3c357a7f, type: 3}
+  ssBackground: {fileID: 0}
+  songBG: {fileID: 0}
+  comBGImage: {fileID: 0}
+  comLogo: {fileID: 0}

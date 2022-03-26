@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2E14D07D-AEFB-4E97-D9A7-17551378D369}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Russells Files/Scripts/TMSS.cs">
+    <Files>
+      <File FileName="Assets/Russells Files/Scripts/TMSS.cs" Line="48" Column="34" />
+      <File FileName="Assets/Russells Files/Scripts/DifficultyButton.cs" Line="62" Column="1" />
+      <File FileName="Assets/Russells Files/Scripts/SpeedButton.cs" />
+      <File FileName="Assets/Russells Files/Scripts/Saver.cs" />
+      <File FileName="Assets/SceneLoading.cs" />
+      <File FileName="Assets/LoadMainPlay.cs" />
+      <File FileName="Assets/TextLanguage.cs" />
+      <File FileName="Assets/Russells Files/Scripts/RG Scripts/LaneController.cs" />
+      <File FileName="Assets/Russells Files/Scripts/RG Scripts/RhythmGameController.cs" />
+      <File FileName="Assets/Russells Files/Scripts/RG Scripts/NoteObject.cs" Line="144" Column="4" />
+      <File FileName="Assets/Russells Files/Scripts/SongInfo.cs" />
+      <File FileName="Assets/Russells Files/Scripts/ScoreManager.cs" />
+      <File FileName="Assets/Simple Scene Fade Load System/Scripts/Initiate.cs" />
+      <File FileName="Assets/Russells Files/Scripts/SongChange.cs" Line="89" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3db93457-68eb-4d58-a0fa-4e9b87b5e722" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6625e3263de45efad5bb1d2c43fc16, type: 3}
+  m_Name: Oath
+  m_EditorClassIdentifier: 
+  isVideo: 0
+  videoName: 
+  artistName: Midori Yuzuka
+  songName: Oath
+  songTime: 1:30
+  playerPrefsE: 002E
+  playerPrefsM: 002M
+  playerPrefsH: 002H
+  playerPrefsEC: 002EC
+  playerPrefsMC: 002MC
+  playerPrefsHC: 002HC
+  addLife: 10
+  takeLife: 10
+  leaderboard: CgkIweWXm7YEEAIQAw
+  songSnip: {fileID: 8300000, guid: d0bc8c4844efe4ca69076268322d32b8, type: 3}
+  bpm: 120
+  MainKoreograpy: {fileID: 11400000, guid: 645f141282fa44175bf6d44634c73e1c, type: 2}
+  easyTrack: {fileID: 11400000, guid: 0a320c163ab9d48d0a18bdf0cec5ca24, type: 2}
+  easyTrackString: E
+  easySpeedBase: 5
+  mediumTrack: {fileID: 11400000, guid: 0a320c163ab9d48d0a18bdf0cec5ca24, type: 2}
+  mediumTrackString: M
+  mediumSpeedBase: 6
+  hardTrack: {fileID: 11400000, guid: 0a320c163ab9d48d0a18bdf0cec5ca24, type: 2}
+  hardTrackString: H
+  hardSpeedBase: 10
+  tickTrack: {fileID: 11400000, guid: b33a013e31edf45da9994a559d365992, type: 2}
+  tickTrackString: tick
+  beats: {fileID: 0}
+  beatsTrackName: B
+  easyLevelNum: 5
+  mediumLevellNum: 6
+  hardLevelNum: 7
+  noteColor: {r: 0.39215687, g: 0.73333335, b: 0.72156864, a: 1}
+  doubleColor: {r: 0.54509807, g: 0.078431375, b: 0.3372549, a: 1}
+  holdColor: {r: 0.21568628, g: 0.69803923, b: 0.11372549, a: 1}
+  mainColor: {r: 0.4745098, g: 0.7254902, b: 0.7176471, a: 1}
+  lightColor: {r: 0.5019608, g: 0.13333334, b: 0.32941177, a: 1}
+  darkColor: {r: 0.36862746, g: 0.6862745, b: 0.23137255, a: 1}
+  ssSmallIcon: {fileID: 21300000, guid: 3d6c70b65d21f496c8ccf91964cdb510, type: 3}
+  ssBigIcon: {fileID: 21300000, guid: 3727981e34ea34ba2b1db20d50b43067, type: 3}
+  ssBackground: {fileID: 0}
+  songBG: {fileID: 21300000, guid: c8a7876e4f1014539832f4940c09ce56, type: 3}
+  comBGImage: {fileID: 0}
+  comLogo: {fileID: 0}

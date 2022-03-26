@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GUI
+  - RM_Black_Bars
+  - RM_Canvas
+  - RM_Background
+  - Score Manager
+  - t1
+  - t2
+  - t3
+  - t4
+  - Saver
+  - SpeedButtonUp
+  - SpeedButtonDown
+  - easy
+  - medium
+  - hard
+  - settings
+  - diffup
+  - diffdown
+  - sspress
+  - back
+  - spawn1
+  - spawn2
+  - spawn3
+  - spawn4
+  - spawn5
+  - spawn6
+  - Lane 1
+  - Lane
+  - button1
+  - button2
+  - button3
+  - button4
+  - button5
+  - button6
+  - CSaver
+  - screen
+  - up
+  - down
+  - left
+  - right
+  - audiocontroller
+  - Button
+  - Part
+  - MenuSaver
+  - GooglePlayManager
+  - Reset
+  - hit
+  - DM
+  - Life Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
