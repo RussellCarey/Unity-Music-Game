@@ -6,7 +6,7 @@ I 'studied' C# and Unity with the intention just to create a music game for fun.
 
 I ended up creating web and mobile based games (unreleased) due to my lack of skill at the time.
 
-This is where I found my love for programming. I then moved to JavaScript and the Web.
+This is where I found my love for programming and combing art, media and coding together. I then moved to JavaScript and the Web.
 
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s1.png?raw=true)
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s2.png?raw=true)
