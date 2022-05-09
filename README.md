@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=V08mk8GfqE4
 
 https://www.youtube.com/watch?v=Jm_xRL61NfI
 
+![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/g1.gif?raw=true)
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s1.png?raw=true)
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s2.png?raw=true)
 ![alt text](https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s3.png?raw=true)
